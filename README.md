@@ -10,6 +10,14 @@
 
 👉 [[github](https://github.com/mssalvo/vue-universal-pagination)]
 
+## ⚡ Quick Example
+
+```vue
+<UniversalPagination
+  v-model="page"
+  :totalPage="50"
+/>
+```
 
 ## ✨ Features
 
@@ -20,15 +28,6 @@
 - Easy integration
  
 ---
- 
-## ⚡ Quick Example
-
-```vue
-<UniversalPagination
-  v-model="page"
-  :totalPage="50"
-/>
-```
  
 
 A flexible, customizable and lightweight pagination component for Vue 3.
