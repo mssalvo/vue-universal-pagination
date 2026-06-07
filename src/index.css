@@ -1,0 +1,157 @@
+/* =========================
+   BASE (comune a tutti)
+========================= */
+
+.unipaginator {
+  display: block;
+}
+
+.unipaginator ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.unipaginator li {
+  display: inline-flex;
+}
+
+/* reset button */
+.unipaginator button {
+  border: none;
+  background: none;
+  cursor: pointer;
+  font: inherit;
+}
+
+/* ellipsis */
+.unipaginator-ellipsis {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 8px;
+}
+
+/* disabled */
+.unipaginator .disabled span {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+
+.unipaginator--left ul {
+  justify-content: left;
+}
+.unipaginator--center ul {
+  justify-content: center;
+}
+.unipaginator--right ul {
+  justify-content: right;
+}
+
+
+/* =========================
+   DEFAULT
+========================= */
+
+.unipaginator--default ul {
+  gap: 4px;
+}
+
+.unipaginator--default li button,
+.unipaginator--default li span {
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  background: #fff;
+  color: #333;
+}
+
+.unipaginator--default li button:hover {
+  background: #f5f5f5;
+}
+
+.unipaginator--default .active span {
+  background: #007bff;
+  color: #fff;
+  border-color: #007bff;
+}
+
+/* =========================
+   DARK
+========================= */
+
+.unipaginator--dark ul {
+  gap: 4px;
+}
+
+.unipaginator--dark li button,
+.unipaginator--dark li span {
+  padding: 6px 10px;
+  background: #222;
+  color: #eee;
+  border: 1px solid #444;
+}
+
+.unipaginator--dark li button:hover {
+  background: #333;
+}
+
+.unipaginator--dark .active span {
+  background: #0d6efd;
+  color: #fff;
+  border-color: #0d6efd;
+}
+
+/* =========================
+   MINIMAL
+========================= */
+
+.unipaginator--minimal ul {
+  gap: 10px;
+}
+
+.unipaginator--minimal li button,
+.unipaginator--minimal li span {
+  border: none;
+  background: transparent;
+  padding: 4px 6px;
+  color: #333;
+}
+
+.unipaginator--minimal li button:hover {
+  text-decoration: underline;
+}
+
+.unipaginator--minimal .active span {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* =========================
+   ROUNDED (moderno)
+========================= */
+
+.unipaginator--rounded ul {
+  gap: 6px;
+}
+
+.unipaginator--rounded li button,
+.unipaginator--rounded li span {
+  border-radius: 999px;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  background: #fff;
+}
+
+.unipaginator--rounded li button:hover {
+  background: #f0f0f0;
+}
+
+.unipaginator--rounded .active span {
+  background: #007bff;
+  color: #fff;
+  border-color: #007bff;
+}
