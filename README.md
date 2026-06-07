@@ -32,16 +32,30 @@ A flexible, customizable and lightweight pagination component for Vue 3.
 ```bash
 npm install vue-universal-pagination
 ```
+
 ---
 
-### ⚠️ Important
+## 🎬 Demo
 
-Don't forget to import the CSS file:
+![Preview](https://github.com/mssalvo/vue-universal-pagination/blob/main/src/demo/default.png)
 
-```ts
-import "vue-universal-pagination/dist/index.css";
-```
 ---
+
+![Preview](https://github.com/mssalvo/vue-universal-pagination/blob/main/src/demo/round.png)
+
+---
+
+![Preview](https://github.com/mssalvo/vue-universal-pagination/blob/main/src/demo/dark.png)
+
+
+---
+
+![Preview](https://github.com/mssalvo/vue-universal-pagination/blob/main/src/demo/minimal.png)
+
+
+---
+
+
 
 ## 📦 Usage
 
