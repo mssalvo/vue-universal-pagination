@@ -6,7 +6,7 @@
 ![vue](https://img.shields.io/badge/vue-3.x-brightgreen)
 ![typescript](https://img.shields.io/badge/typescript-supported-blue)
 
-![github.com/mssalvo](https://github.com/mssalvo/data-table-list-vue3) 
+![github.com/mssalvo](https://github.com/mssalvo/vue-universal-pagination) 
 ## ⚡ Quick Example
 
 ```vue
