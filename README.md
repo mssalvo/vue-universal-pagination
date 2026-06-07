@@ -6,7 +6,7 @@
 ![vue](https://img.shields.io/badge/vue-3.x-brightgreen)
 ![typescript](https://img.shields.io/badge/typescript-supported-blue)
 
-
+![github.com/mssalvo](https://github.com/mssalvo/data-table-list-vue3) 
 ## ⚡ Quick Example
 
 ```vue
@@ -14,8 +14,8 @@
   v-model="page"
   :totalPage="50"
 />
-
-
+```
+ 
 
 A flexible, customizable and lightweight pagination component for Vue 3.
 
