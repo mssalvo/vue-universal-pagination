@@ -6,6 +6,17 @@
 ![vue](https://img.shields.io/badge/vue-3.x-brightgreen)
 ![typescript](https://img.shields.io/badge/typescript-supported-blue)
 
+
+## ⚡ Quick Example
+
+```vue
+<UniversalPagination
+  v-model="page"
+  :totalPage="50"
+/>
+
+
+
 A flexible, customizable and lightweight pagination component for Vue 3.
 
 ✅ TypeScript ready  
