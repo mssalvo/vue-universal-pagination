@@ -55,6 +55,16 @@ npm install vue-universal-pagination
 
 ---
 
+## ☕ Buy me a coffee
+
+If this project is useful to you in your work, consider supporting it with a coffee ☕  
+
+👉 [[paypal.me/msalvonet](https://paypal.me/msalvonet)]
+
+👉 [[buymeacoffee.com/mssalvo](https://buymeacoffee.com/mssalvo)]
+
+
+Every support helps maintain and improve the project 🚀
 
 
 ## 📦 Usage
