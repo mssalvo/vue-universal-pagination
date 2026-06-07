@@ -19,6 +19,14 @@
 />
 ```
 
+## 🌐 Live Demo
+
+👉 [[vue-universal-pagination-demo](https://vue-universal-pagination-demo-1o7kp3sp9-mssalvos-projects.vercel.app)]
+
+
+
+---
+
 ## ✨ Features
 
 - Client-side & server-side support
