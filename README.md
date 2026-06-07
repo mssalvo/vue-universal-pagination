@@ -54,12 +54,11 @@ npm install vue-universal-pagination
 
 ---
 
-![Preview](https://github.com/mssalvo/vue-universal-pagination/blob/main/src/demo/round.png)
+![Preview](https://github.com/mssalvo/vue-universal-pagination/blob/main/src/demo/dark.png)
 
 ---
 
-![Preview](https://github.com/mssalvo/vue-universal-pagination/blob/main/src/demo/dark.png)
-
+![Preview](https://github.com/mssalvo/vue-universal-pagination/blob/main/src/demo/round.png)
 
 ---
 
