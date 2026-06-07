@@ -10,8 +10,16 @@
 
 👉 [[github](https://github.com/mssalvo/vue-universal-pagination)]
 
- 
 
+## ✨ Features
+
+- Client-side & server-side support
+- Multiple themes
+- Lightweight
+- TypeScript ready
+- Easy integration
+ 
+---
  
 ## ⚡ Quick Example
 
