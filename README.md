@@ -21,7 +21,15 @@ A flexible, customizable and lightweight pagination component for Vue 3.
 ```bash
 npm install vue-universal-pagination
 ```
+---
 
+### ⚠️ Important
+
+Don't forget to import the CSS file:
+
+```ts
+import "vue-universal-pagination/dist/index.css";
+```
 ---
 
 ## 📦 Usage
@@ -45,16 +53,6 @@ import { ref } from "vue";
 
 const page = ref(1);
 </script>
-```
-
----
-
-## ⚠️ Important
-
-Don't forget to import the CSS file:
-
-```ts
-import "vue-universal-pagination/dist/index.css";
 ```
 
 ---
