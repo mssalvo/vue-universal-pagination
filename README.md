@@ -6,6 +6,8 @@
 ![vue](https://img.shields.io/badge/vue-3.x-brightgreen)
 ![typescript](https://img.shields.io/badge/typescript-supported-blue)
 
+![NPM]((https://www.npmjs.com/package/vue-universal-pagination))
+
 ![github.com/mssalvo](https://github.com/mssalvo/vue-universal-pagination) 
 ## ⚡ Quick Example
 
