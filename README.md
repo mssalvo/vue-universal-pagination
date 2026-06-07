@@ -66,6 +66,10 @@ If this project is useful to you in your work, consider supporting it with a cof
 
 Every support helps maintain and improve the project 🚀
 
+---
+
+
+
 
 ## 📦 Usage
 
